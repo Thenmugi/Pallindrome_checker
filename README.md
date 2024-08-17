@@ -1,0 +1,1 @@
+This project implements a simple palindrome checker using HTML, CSS,Tailwind and JavaScript. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
